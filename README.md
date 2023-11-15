@@ -1,4 +1,6 @@
-Valid login && password
+Deployment - https://ivannwebdev.github.io/react-ts-calendar
+
+valid login && password:
 
 {username: "myname123",
 password: "000"}
